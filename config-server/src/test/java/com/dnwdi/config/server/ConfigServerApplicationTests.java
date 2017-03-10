@@ -1,4 +1,4 @@
-package com.dnwdi;
+package com.dnwdi.config.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
